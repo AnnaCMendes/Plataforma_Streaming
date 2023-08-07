@@ -17,6 +17,8 @@
 <h2>O desafio:</h2>
 <p align="justify">Streaming é o processo de transmitir e reproduzir conteúdo – como música, vídeos ou jogos – em tempo real pela internet. Ou seja, você pode consumir conteúdo sob demanda sem precisar tê-lo baixado anteriormente no celular, tablet, notebook, entre outros.</p>
 
+<p>Disponível apenas para Computadores.</p>
+
 --------------------------------------------------------------------------------------------------------------------
 
 <h2>Definição do problema:</h2>
